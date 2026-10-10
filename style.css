@@ -1,0 +1,35 @@
+body {
+  font-family: Tahoma, sans-serif;
+  font-size: 18px;
+  background: #e9f1f8
+}
+
+section {
+  height: 100px;
+  padding: 64px;
+  background: #133951;
+  color: #B7D1EA;
+}
+
+h1 {
+    color: #223474;
+    font-family: Tahoma, sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 700;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 4px #5C98A4;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #1E3F63;
+    font-family: Tahoma, sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px #BFAECB;
+    font-size: 30px;
+}
